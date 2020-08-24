@@ -15,4 +15,7 @@
   ```
 ![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/DescriptionLifeCycle.PNG?raw=true)
 
-### Concatinating A String, inside a className : ```<i className={`icon-left massive ${iconName} icon`} />```
+### Concatinating A String, inside a className : 
+```
+<i className={`icon-left massive ${iconName} icon`} />
+```
