@@ -19,3 +19,5 @@
 ```
 <i className={`icon-left massive ${iconName} icon`} />
 ```
+### HOOKS
+![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/Hooks.PNG?raw=true)
