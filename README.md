@@ -21,3 +21,6 @@
 ```
 ### HOOKS
 ![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/Hooks.PNG?raw=true)
+
+### useEffect hook: (use cases)
+![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/UseEffect.PNG?raw=true)
