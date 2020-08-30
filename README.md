@@ -24,3 +24,6 @@
 
 ### useEffect hook: (use cases)
 ![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/UseEffect.PNG?raw=true)
+
+### 3 ways to call async method from useState: As useState can not be marked as async:
+![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/UseStateCanNotBe_async.PNG?raw=true)
