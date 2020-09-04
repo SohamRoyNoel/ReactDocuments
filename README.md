@@ -27,3 +27,6 @@
 
 ### 3 ways to call async method from useState: As useState can not be marked as async:
 ![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/UseStateCanNotBe_async.PNG?raw=true)
+
+### Remove HTML from the response body
+![github-small](https://github.com/SohamRoyNoel/ReactDocuments/blob/master/How%20To%20remove%20html%20tags%20from%20a%20response.PNG?raw=true)
